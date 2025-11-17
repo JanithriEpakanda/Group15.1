@@ -69,10 +69,10 @@ const slides = [
   },
   {
     key: "ten",
-    title: "color pictures",
+    title: "animals",
     text:
       "Lorem ipsum dolor sit amet consecte tuer adipsing elit sed diam monum my nibh eusimod eltor",
-    image: require("./images/8.png"),
+    image: require("./images/2.png"),
   },
 ];
 
