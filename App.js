@@ -67,6 +67,13 @@ const slides = [
       "Lorem ipsum dolor sit amet consecte tuer adipsing elit sed diam monum my nibh eusimod eltor",
     image: require("./images/8.png"),
   },
+  {
+    key: "ten",
+    title: "color pictures",
+    text:
+      "Lorem ipsum dolor sit amet consecte tuer adipsing elit sed diam monum my nibh eusimod eltor",
+    image: require("./images/8.png"),
+  },
 ];
 
 export default class App extends React.Component {
