@@ -116,7 +116,7 @@ export default class App extends React.Component {
       renderItem={this._renderItem} 
       data={slides} 
       activeDotStyle={{
-        backgroundColor:"#21465b",
+        backgroundColor:"#19087aff",
         width:30
       }}
      />
