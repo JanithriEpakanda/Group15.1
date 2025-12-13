@@ -26,7 +26,7 @@ const slides = [
     image: require("./images/3.png"),
   },
   {
-    key: "four",
+    key: "Four new",
     title: "Music",
     text:
       "Lorem ipsum dolor sit amet consecte tuer adipsing elit sed diam monum my nibh eusimod eltor",
