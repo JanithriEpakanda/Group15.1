@@ -55,7 +55,14 @@ const slides = [
   },
   {
     key: "eight",
-    title: "Good Habits new",
+    title: "Good Habits",
+    text:
+      "Lorem ipsum dolor sit amet consecte tuer adipsing elit sed diam monum my nibh eusimod eltor",
+    image: require("./images/8.png"),
+  },
+  {
+    key: "nine",
+    title: "History",
     text:
       "Lorem ipsum dolor sit amet consecte tuer adipsing elit sed diam monum my nibh eusimod eltor",
     image: require("./images/8.png"),
