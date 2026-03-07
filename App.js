@@ -55,7 +55,7 @@ const slides = [
   },
   {
     key: "eight",
-    title: "Good Habits",
+    title: "Good Habits new",
     text:
       "Lorem ipsum dolor sit amet consecte tuer adipsing elit sed diam monum my nibh eusimod eltor",
     image: require("./images/8.png"),
